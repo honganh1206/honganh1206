@@ -1,8 +1,8 @@
 # About me
 
 - 👋 Hi, I’m @honganh1206
-- 👀 I’m interested in Web Developing!
-- 🌱 I’m currently learning Python, C++ and JS (probably) in the near future.
+- 👀 I’m interested in Web Developing and Machine Learning.
+- 🌱 I’m currently learning Python, while C++ and JS are probably for in the near future.
 - 💞️ Hope we can collaborate on learning programming!
 - 📫 How to reach me:
      (Email) phamhonganh12062000@gmail.com
