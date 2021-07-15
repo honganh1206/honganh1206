@@ -15,7 +15,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honganh1206&show_icons=true&theme=tokyonight)
 
 # My weekly learning progress
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honganh1206&show_icons=true&theme=tokyonight)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@honganh1206&show_icons=true&theme=tokyonight)
+
 
 <!---
 honganh1206/honganh1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
