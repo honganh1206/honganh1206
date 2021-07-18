@@ -11,11 +11,14 @@
 # My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honganh1206&show_icons=true&theme=tokyonight)
 
-# Languages & Tech stacks I am learning how to use
+# Languages I am learning how to use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honganh1206&show_icons=true&theme=tokyonight)
 
 # My weekly learning progress
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@honganh1206&show_icons=true&theme=tokyonight)
+![honganh1206's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honganh1206&theme=tokyonight)
+
+# My repos:
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honganh1206&repo=github-readme-stats&theme=tokyonight)
 
 
 <!---
