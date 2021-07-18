@@ -17,8 +17,6 @@
 # My weekly learning progress
 ![honganh1206's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honganh1206&theme=tokyonight)
 
-# My repos:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honganh1206&repo=github-readme-stats&theme=tokyonight)
 
 
 <!---
