@@ -1,8 +1,6 @@
 # About me
 
 - 👋 Hi, I’m @honganh1206
-- 👀 I’m interested in Web Developing and Machine Learning.
-- 🌱 I’m currently learning Python, while C++ and JS are probably for in the near future.
 - 💞️ Hope we can collaborate on learning programming!
 - 📫 How to reach me:
      (Email) phamhonganh12062000@gmail.com
@@ -14,8 +12,7 @@
 # Languages I am learning how to use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honganh1206&show_icons=true&theme=tokyonight)
 
-# My weekly learning progress
-![honganh1206's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honganh1206&theme=tokyonight)
+
 
 
 
