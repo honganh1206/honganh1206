@@ -3,12 +3,6 @@
  👋 Hi, I’m learning how to code.
 
 
-# My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honganh1206&show_icons=true&theme=tokyonight)
-
-# Languages I am learning how to use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honganh1206&show_icons=true&theme=tokyonight)
-
 
 
 
