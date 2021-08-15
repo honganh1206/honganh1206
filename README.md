@@ -1,10 +1,7 @@
 # About me
 
-- 👋 Hi, I’m @honganh1206
-- 💞️ Hope we can collaborate on learning programming!
-- 📫 How to reach me:
-     (Email) phamhonganh12062000@gmail.com
-     (LinkedIn) https://www.linkedin.com/in/hong-anh-pham-b20a79176/
+ 👋 Hi, I’m learning how to code.
+
 
 # My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honganh1206&show_icons=true&theme=tokyonight)
