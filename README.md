@@ -23,5 +23,3 @@ I'm a passionate developer focused on building efficient, scalable, and reliable
 - 📧 Reach me at [honganhpham.work@gmai.com](honganhpham.work@gmai.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hong-anh-pham-b20a79176/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
