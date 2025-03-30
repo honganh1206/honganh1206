@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 I'm a passionate developer focused on building efficient, scalable, and reliable software. I love diving deep into complex problems and creating elegant solutions.
 
 - 💡 Exploring distributed systems, compilers, and low-level programming
-- 🟦 Building a Go-based Redis clone from scratch
+- 🟦 Building a toy programming language in Go and a Go-based Redis clone from scratch
 - 🟢 Experimenting with compilers and programming language design
 - 📚 Always learning and sharing knowledge
 
