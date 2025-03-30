@@ -14,9 +14,8 @@ I'm a passionate developer focused on building efficient, scalable, and reliable
 
 ## 🛠️ Tech Stack
 - **Languages:** Go, C#, JavaScript, TypeScript, SQL
-- **Frameworks:** MudBlazor, Bootstrap 5
 - **Tools:** Docker, Redis, VS Code (Vim), Git
-- **Interests:** CRDTs, Distributed Systems, Performance Optimization
+- **Interests:** Distributed Systems, Performance Optimization, Language Design, and Building things from scratch
 
 ## 🌍 Let's Connect
 - 💬 Ask me about Go, web development, or distributed systems
