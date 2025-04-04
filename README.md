@@ -17,8 +17,8 @@ I'm a passionate developer focused on building efficient, scalable, and reliable
 - **Tools:** Docker, Redis, VS Code (Vim), Git
 - **Interests:** Distributed Systems, Performance Optimization, Language Design, and Building things from scratch
 
-## 🌍 Let's Connect
-- 💬 Ask me about Go, web development, or distributed systems
-- 📧 Reach me at [honganhpham.work@gmai.com](honganhpham.work@gmai.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hong-anh-pham-b20a79176/)
+## 🌍 Reach me at
+- 💬 My [personal website](https://honganhpham.pro/)
+- 📧 My work email [honganhpham.work@gmai.com](honganhpham.work@gmai.com)
+- 💼 My [LinkedIn](https://www.linkedin.com/in/hong-anh-pham-b20a79176/)
 
