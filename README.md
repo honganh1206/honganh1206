@@ -13,9 +13,9 @@ I'm a passionate developer focused on building efficient, scalable, and reliable
 - 📚 Always learning and sharing knowledge
 
 ## 🛠️ Tech Stack
-- **Languages:** Go, C#, JavaScript, TypeScript, SQL
+- **Languages:** Go, C#, JavaScript/TypeScript, SQL
 - **Tools:** Docker, Redis, VS Code (Vim), Git
-- **Interests:** Distributed Systems, Performance Optimization, Language Design, and Building things from scratch
+- **Interests:** Distributed Systems, Performance Optimization, Language Design, and building things from scratch
 
 ## 🌍 Reach me at
 - 💬 My [personal website](https://honganhpham.pro/)
