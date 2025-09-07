@@ -10,7 +10,7 @@ I love working on software that people use. I’m happiest working at scale, and
 I’m very comfortable with Golang, C#, TypeScript/JavaScript, Linux, Windows, talking to databases and queues, and building out systems end-to-end. I also do some Python, Java and C, but they are not my comfort zones (yet). I live in Hanoi, Vietnam.
 
 ## Reach me at
-- 💬 My [personal website](https://honganhpham.pro/)
+- 💬 My [personal website](https://phamhonganh.com/)
 - 📧 My work email [honganhpham.work@gmai.com](honganhpham.work@gmai.com)
 - 💼 My [LinkedIn](https://www.linkedin.com/in/hong-anh-pham-b20a79176/)
 
